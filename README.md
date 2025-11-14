@@ -108,7 +108,7 @@ Use esse diagrama como referência para compreender o desenho da base de dados e
 
 ## 📸 Screenshots
 
-As imagens incluídas neste repositório (`hotel.png`, `icone.png`) podem ser usadas para documentação, apresentação ou portfólio:
+As imagens incluídas neste repositório (`conceitual.png`, `icone.png`) podem ser usadas para documentação, apresentação ou portfólio:
 
 - ![tela principal](./conceitual.png)
  exemplo de tela principal / fluxo da aplicação
